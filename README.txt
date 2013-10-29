@@ -1,8 +1,4 @@
-Declaration of originality:
-
-This is to declare that the project has been made solely by myself without discussion with any other student.
-
-Currently there are a few drawbacks in the project which I will work on in the future if I return to this project:
+There are a few drawbacks in the project which I will work on in the future if I return to this project:
 
 1. For generating primes, Fermat's test is used, which checks upto 10 times for non-failure of the test. 
 This does not ensure that the number finally chosen IS a prime, and the algorithm fails if it not. 
@@ -13,4 +9,3 @@ This does not ensure that the number finally chosen IS a prime, and the algorith
 if Fast Fourier Transform is implemented which should bring down the complexity to O(N logN).
 
 4. The division algorithm is long division one. The complexity may be brought down to O(M(n)) i.e. equal to that of multiplication.
-
